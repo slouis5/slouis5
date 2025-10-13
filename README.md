@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Serginau LOUIS, Statistician and Programmer
+- 👋 Hi, I’m Serginau LOUIS, Data Scientist/Statistician and Programmer
 - 👀 I’m interested in Python programming Language, Data Analysis, Datascience, and sowftware/web development
-- 🌱 I’m currently learning languages, tools and framework for Web Development
-- 💞️ I’m looking to collaborate on software or projects where I can work as Statistician, Data Analyst or Programmer
-- 📫 How to reach me: Whatsapp ~ +(509) 3811 4034, Mail ~ serginaulouis@gmail.com
+- 🌱 I’m currently at Paris 1 Pantheon-Sorbonne University for a Master 2 degree in Data Science
+- 💞️ I’m looking for alternance in DataScience and MLOps environment
+- 📫 How to reach me: Mail ~ serginaulouis@gmail.com, serginau.louis@etu.univ-paris1.fr
