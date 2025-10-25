@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Serginau LOUIS, Data Scientist/Statistician and Programmer
 - 👀 I’m interested in Python programming Language, Data Analysis, Datascience, and sowftware/web development
 - 🌱 I’m currently at Paris 1 Pantheon-Sorbonne University for a Master 2 degree in Data Science
-- 💞️ I’m looking for alternance in DataScience and MLOps environment
+- 💞️ I’m looking for an internship or apprenticeship in Data Science, ideally in an MLOps environment
 - 📫 How to reach me: Mail ~ serginaulouis@gmail.com, serginau.louis@etu.univ-paris1.fr
